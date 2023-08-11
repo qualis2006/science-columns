@@ -104,15 +104,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Soonwook Hwang, Ph.D"
+  name             : "Soonwook Hwang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Computer Scientist and Formal Director General. I am keen on exploring and developing large-scale distributed deep learning practices including pre-training/fine-tuning LLMs on supercomputers."
   location         : "Daejeon, South Korea"
-  email            : "hwang@kisti.re.kr"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:hwang@kisti.re.kr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
