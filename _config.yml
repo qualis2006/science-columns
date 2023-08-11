@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Soonwook Hwang"
+  name             : "Soonwook Hwang, Ph.D."
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Computer Scientist and Formal Director General. I am keen on exploring and developing large-scale distributed deep learning practices including pre-training/fine-tuning LLMs on supercomputers."
   location         : "Daejeon, South Korea"
@@ -121,10 +121,10 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.facebook.com/soonwook.hwang.39"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/hwang2006"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
