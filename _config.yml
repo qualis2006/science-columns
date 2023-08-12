@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko_KR_UTF-8" #"en-US"
 title                    : "황순욱 박사의 슈퍼컴퓨터/인공지능 사이언스칼럼 모음"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
@@ -108,7 +108,7 @@ author:
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Computer Scientist and Formal Director General. For the last couple of years I have been very keen on exploring and developing large-scale distributed deep learning practices including pre-training/fine-tuning LLMs on supercomputers, especially on National Supercomputing Facilities like KISTI and LBNL/NERSC."
   location         : "Daejeon, South Korea"
-  email            : 
+  email            : "hwang@kisti.re.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
