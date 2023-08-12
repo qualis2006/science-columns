@@ -28,7 +28,7 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+words_per_minute         : 100
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
@@ -108,7 +108,7 @@ author:
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Computer Scientist and Formal Director General. For the last couple of years I have been very keen on exploring and developing large-scale distributed deep learning practices including pre-training/fine-tuning LLMs on supercomputers, especially on National Supercomputing Facilities like KISTI and LBNL/NERSC."
   location         : "Daejeon, South Korea"
-  email            : "hwang@kisti.re.kr"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
