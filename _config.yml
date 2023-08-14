@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Soonwook Hwang, Ph.D."
   avatar           : "/assets/images/bio-photo2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Computer Scientist and Formal Director General. For the last couple of years I have been very keen on exploring and developing large-scale distributed deep learning practices including pre-training/fine-tuning LLMs on supercomputers, especially on National Supercomputing Facilities like KISTI and LBNL/NERSC."
+  bio              : "Computer Scientist and Formal Director General. For the last couple of years I have been very keen on exploring and developing large-scale distributed deep learning practices including pre-training/fine-tuning LLMs on supercomputers, especially on National Supercomputing Facilities like KISTI in Korea and LBNL/NERSC in the U.S."
   location         : "Daejeon, South Korea"
   email            : 
   links:
